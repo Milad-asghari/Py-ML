@@ -1,2 +1,0 @@
-# Py-ML
-Jupyter format
